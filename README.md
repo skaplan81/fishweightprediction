@@ -1,1 +1,1 @@
-# fishweightprediction
+# WishWeightPredictionApplication
